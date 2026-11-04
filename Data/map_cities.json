@@ -1,72 +1,72 @@
 [
   {
     "city_id": 1,
-    "city": "new New York hehe",
+    "city": "New York hehe",
     "state": "NY",
     "region": "Northeast",
-    "updated_at": "2026-11-05T12:46:48.657+00:00"
+    "updated_at": "2026-11-05T12:46:48.657+00:01"
   },
   {
     "city_id": 2,
-    "city": "new Las Angelas boleto",
+    "city": " Las Angelas boleto",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-11-05T20:46:48.657+00:00"
+    "updated_at": "2026-11-05T20:46:48.657+00:01"
   },
   {
     "city_id": 3,
-    "city": "new Chicago meri jaan",
+    "city": "Chicago meri jaan",
     "state": "IL",
     "region": "Midwest",
-    "updated_at": "2026-11-05T12:46:48.657+00:00"
+    "updated_at": "2026-11-05T12:46:48.657+00:01"
   },
   {
     "city_id": 4,
     "city": "new Houston kay bolti public",
     "state": "TX",
     "region": "South",
-    "updated_at": "2026-11-05T12:46:48.657+00:00"
+    "updated_at": "2026-11-05T12:46:48.657+00:01"
   },
   {
     "city_id": 5,
-    "city": "new Phoenix mall",
+    "city": "Phoenix mall",
     "state": "AZ",
     "region": "Southwest",
-    "updated_at": "2026-11-05T12:46:48.657+00:00"
+    "updated_at": "2026-11-05T12:46:48.657+00:01"
   },
   {
     "city_id": 6,
-    "city": "new Philadelphia meow",
+    "city": "Philadelphia meow",
     "state": "PA",
     "region": "Northeast",
-    "updated_at": "2026-11-05T12:46:48.657+00:00"
+    "updated_at": "2026-11-05T12:46:48.657+00:01"
   },
   {
     "city_id": 7,
-    "city": "new San Antonio woah",
+    "city": "San Antonio woah",
     "state": "TX",
     "region": "South",
-    "updated_at": "2026-11-05T12:46:48.657+00:00"
+    "updated_at": "2026-11-05T12:46:48.657+00:01"
   },
   {
     "city_id": 8,
-    "city": "new San Diego ikr",
+    "city": "San Diego ikr",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-11-05T12:46:48.657+00:00"
+    "updated_at": "2026-11-05T12:46:48.657+00:01"
   },
   {
     "city_id": 9,
-    "city": "new Dallas u dalla",
+    "city": "Dallas u dalla",
     "state": "TX",
     "region": "South",
-    "updated_at": "2026-11-05T12:46:48.657+00:00"
+    "updated_at": "2026-11-05T12:46:48.657+00:01"
   },
   {
     "city_id": 10,
-    "city": "new San Jose what",
+    "city": " San Jose what",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-11-05T12:46:48.657+00:00"
+    "updated_at": "2026-11-05T12:46:48.657+00:01"
   }
 ]
