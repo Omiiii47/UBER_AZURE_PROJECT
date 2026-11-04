@@ -1,70 +1,70 @@
 [
   {
     "city_id": 1,
-    "city": "New York",
+    "city": "New York hehe",
     "state": "NY",
     "region": "Northeast",
     "updated_at": "2026-11-04T12:46:48.657+00:00"
   },
   {
     "city_id": 2,
-    "city": "Las Angelas",
+    "city": "Las Angelas boleto",
     "state": "CA",
     "region": "West",
     "updated_at": "2026-11-04T20:46:48.657+00:00"
   },
   {
     "city_id": 3,
-    "city": "Chicago",
+    "city": "Chicago meri jaan",
     "state": "IL",
     "region": "Midwest",
     "updated_at": "2026-11-04T12:46:48.657+00:00"
   },
   {
     "city_id": 4,
-    "city": "Houston",
+    "city": "Houston kay bolti public",
     "state": "TX",
     "region": "South",
     "updated_at": "2026-11-04T12:46:48.657+00:00"
   },
   {
     "city_id": 5,
-    "city": "Phoenix",
+    "city": "Phoenix mall",
     "state": "AZ",
     "region": "Southwest",
     "updated_at": "2026-11-04T12:46:48.657+00:00"
   },
   {
     "city_id": 6,
-    "city": "Philadelphia",
+    "city": "Philadelphia meow",
     "state": "PA",
     "region": "Northeast",
     "updated_at": "2026-11-04T12:46:48.657+00:00"
   },
   {
     "city_id": 7,
-    "city": "San Antonio",
+    "city": "San Antonio woah",
     "state": "TX",
     "region": "South",
     "updated_at": "2026-11-04T12:46:48.657+00:00"
   },
   {
     "city_id": 8,
-    "city": "San Diego",
+    "city": "San Diego ikr",
     "state": "CA",
     "region": "West",
     "updated_at": "2026-11-04T12:46:48.657+00:00"
   },
   {
     "city_id": 9,
-    "city": "Dallas",
+    "city": "Dallas u dalla",
     "state": "TX",
     "region": "South",
     "updated_at": "2026-11-04T12:46:48.657+00:00"
   },
   {
     "city_id": 10,
-    "city": "San Jose",
+    "city": "San Jose what",
     "state": "CA",
     "region": "West",
     "updated_at": "2026-11-04T12:46:48.657+00:00"
