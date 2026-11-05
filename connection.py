@@ -54,17 +54,12 @@ def send_to_event_hub(ride_data=None, batch_size=1):
 
 
 if __name__ == "__main__":
-    
-    print("=" * 80)
-    print("SINGLE RIDE CONFIRMATION")
-    print("=" * 80)
-    ride = generate_uber_ride_confirmation()
-    print(json.dumps(ride, indent=2))
-
-    
-    print("\n" + "=" * 80)
-    print("SENDING SINGLE RIDE TO EVENT HUB")
-    result = send_to_event_hub(ride)
-    print(f"Single ride sent to Event Hub: {result}")
+    N = 50
+    sent = 0
+    for _ in range(N):
+        ride = generate_uber_ride_confirmation()
+        if send_to_event_hub(ride):
+            sent += 1
+    print(f"Sent {sent} of {N} rides to Event Hub")
     
     
